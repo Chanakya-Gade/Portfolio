@@ -1,0 +1,9 @@
+#navbarSupportedContent {
+    flex-direction: row-reverse;
+}
+
+.navbar-marg {
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
